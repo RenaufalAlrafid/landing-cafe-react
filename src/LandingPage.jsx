@@ -9,7 +9,7 @@ import Footer from "./component/Footer";
 
 export default function LandingPage() {
   return (
-    <main className="w-full">
+    <main className="max-w-full">
         <Navbar></Navbar>
         <div className=" bg-primary-base pt-20 min-h-screen">
             <SectionOne></SectionOne>

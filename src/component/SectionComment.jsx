@@ -4,7 +4,9 @@ import React from 'react';
 export default function SectionComment() {
   return (
     <div className='px-20'>
-        <div className='absolute z-0 w-[600px] h-[600px] bg-primary-20 -right-80 rounded-tl-full rounded-bl-full bg-opacity-20 '></div>
+        {/* <div className='absolute z-0 w-[100px] h-[600px] bg-primary-20 -right-80 rounded-tl-full rounded-bl-full bg-opacity-20 '>
+            dwqqfqw
+        </div> */}
         <h1 className='text-4xl text-secondary-40 font-bold'>
         Unbeatable Quality,<br></br>
         <div className='flex'>
